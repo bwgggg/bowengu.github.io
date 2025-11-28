@@ -13,7 +13,7 @@ Research Interests
 
 - Backscatter Communications
 - RIS
-- ISAC
+- Mobile Edge Computing
 - Semantic Communication
 
 Getting started
