@@ -30,9 +30,8 @@ Research Interests
 Recent News
 ===========
 
-- **2024-08** – Joined the School of Computer Science and Technology, Xinjiang University, as an Associate Professor.  
-- **2024-07** – Successfully defended my Ph.D. thesis at Macau University of Science and Technology.  
-- **2021-06** – Completed my M.S. degree at Chongqing University of Posts and Telecommunications.  
+- **Sept. 2025** – One  paper was accepted  by ICCT 2025.
+- **Jul.  2025** -  One paper was accepted by Globecom 2025.
 
 <!-- You can keep adding new items below -->
 <!-- - **2025-MM** – Your new paper / project / award. -->
